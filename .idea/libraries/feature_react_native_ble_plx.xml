@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-react-native-ble-plx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/react-native-ble-plx/android/build/intermediates/merged_java_res/release/feature-react-native-ble-plx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

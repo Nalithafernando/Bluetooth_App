@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="R1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/react-native-gesture-handler/android/build/.transforms/b77c35c74eb07e648c629361cba8cd6a/transformed/out/jars/libs/R.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

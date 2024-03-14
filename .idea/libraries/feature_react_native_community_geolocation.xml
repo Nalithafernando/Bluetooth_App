@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-react-native-community_geolocation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_java_res/release/feature-react-native-community_geolocation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

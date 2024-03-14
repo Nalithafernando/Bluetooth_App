@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="R9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@react-native-community/geolocation/android/build/.transforms/e5fab84261fa7fb25f47574324de0767/transformed/out/jars/libs/R.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

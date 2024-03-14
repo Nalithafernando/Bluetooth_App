@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/react-native-ble-plx/android/build/intermediates/annotations_zip/release/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

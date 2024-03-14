@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="R5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/react-native-safe-area-context/android/build/.transforms/ba0c8d0385f0b1db6239b5dab792ec76/transformed/out/jars/libs/R.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
